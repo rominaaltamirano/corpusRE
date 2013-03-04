@@ -1,0 +1,46 @@
+index.php
+
+Referring expressions
+Select the language
+Spanish
+English
+You should select the language
+Next
+-----------
+
+page.php
+
+Datos personales y aceptaci&#243;n de los términos/Personal information and accept the conditions
+Identification
+Age
+Sex
+The following are required
+<input type="hidden" name="input_idioma" value="English" />
+Agradecemos su participación!
+Your answer should not conteins yellow
+
+
+Obligatorio	Obrigatório
+Pregunta	Pergunta
+Identificaci&#243;n
+spanish
+Expresiones Referenciales
+Nacionalidad
+ Edad
+ Sexo
+Masculino
+Femenino
+Que estudia?
+Acepto de que los datos ingresados en este cuestionario sean usados an&#243;nimamente para investigaci&#243;n y distribuidos.
+Acepto
+Agradecemos su participacion!
+gracias
+Debe seleccionar el idioma
+Siguiente
+Debe ingresar su DNI
+Debe ingresar su nacionalidad
+Debe ingresar su edad
+Debe seleccionar sexo
+Debe seleccionar si acepta los terminos y condiciones
+
+
